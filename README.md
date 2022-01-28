@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @scriptguard
 - 👀 I’m interested in Javascript and HTML
 - 🌱 I’m currently learning Java & HTML
-- 💞️ I’m looking to collaborate on cookie clicker mods
+- 💞️ I’m looking to collaborate on anything cookie clicker related
 - 📫 You cant reach me
 
 <!---
