@@ -2,7 +2,7 @@
 - 👀 I’m interested in Javascript and HTML
 - 🌱 I’m currently learning Java & HTML
 - 💞️ I’m looking to collaborate on anything cookie clicker related
-- 📫 You cant reach me
+- 📫 https://beacons.ai/scriptguard
 
 <!---
 scriptguard/scriptguard is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
