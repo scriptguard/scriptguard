@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @scriptguard
-- 👀 I’m interested in Javascript and HTML
+- 👀 I’m interested in archiving 
 - 🌱 I’m currently learning Java & HTML
 - 💞️ I’m looking to collaborate on anything cookie clicker related
 - 📫 https://beacons.ai/scriptguard
