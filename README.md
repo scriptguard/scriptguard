@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @scriptguard
-- 👀 I’m interested in archiving 
+- 👀 I’m interested in archiving and learning how to compile source code
 - 🌱 I’m currently learning Java & HTML
-- 💞️ I’m looking to collaborate on anything cookie clicker related
 - 📫 https://beacons.ai/scriptguard
 
 <!---
